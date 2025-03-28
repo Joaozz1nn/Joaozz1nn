@@ -22,3 +22,11 @@
     <img align="center" alt="WINDOWS TERMINAL" height="60" width="60" src="https://img.icons8.com/?size=100&id=WbRVMGxHh74X&format=png&color=000000">
     <img align="center" alt="VMWARE" height="55" width="55" src="https://images.icon-icons.com/195/PNG/256/VMware_23516.png">
 </div>
+
+##
+
+<div> 
+  <a href="https://www.youtube.com/@joaozz1nn_">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
