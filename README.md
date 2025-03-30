@@ -22,12 +22,3 @@
     <img align="center" alt="VMWARE" height="55" width="55" src="https://images.icon-icons.com/195/PNG/256/VMware_23516.png">
     <img align="center" alt="VIRTUALBOX" height="55" width="55" src="https://images.icon-icons.com/2699/PNG/512/virtualbox_logo_icon_169253.png">
 </div>
-
-##
-
-### YouTube Channel | Canal do YouTube:
-<div> 
-  <a href="https://www.youtube.com/@joaozz1nn_">
-    <img src="https://images.icon-icons.com/1121/PNG/512/1486147176-social-media-network19_79496.png" />
-  </a>
-</div>
