@@ -28,6 +28,6 @@
 ### YouTube Channel | Canal do YouTube:
 <div> 
   <a href="https://www.youtube.com/@joaozz1nn_">
-    <img src="https://images.icon-icons.com/2530/PNG/512/youtube_button_icon_151827.png" />
+    <img src="https://images.icon-icons.com/1121/PNG/512/1486147176-social-media-network19_79496.png" />
   </a>
 </div>
