@@ -5,14 +5,14 @@
 
 ##
 
-### Main Languages | Principais Linguagens:
+### Languages | Linguagens:
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
 
 ##
 
-### Main Tools | Principais Ferramentas:
+### Tools | Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="VISUAL STUDIO" height="60" width="60" src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000">
     <img align="center" alt="VSCODE" height="62" width="62" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000">
