@@ -28,6 +28,6 @@
 ### YouTube Channel | Canal do YouTube:
 <div> 
   <a href="https://www.youtube.com/@joaozz1nn_">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://images.icon-icons.com/2530/PNG/512/youtube_button_icon_151827.png" />
   </a>
 </div>
